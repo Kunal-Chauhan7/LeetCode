@@ -7,7 +7,7 @@ public class BinarySearchtoGreaterSumTree {
 			return root;
 		bstToGst(root,sum);
 		return root;
-    }
+    }	
 	public void bstToGst(TreeNode root,int[] sum) {
 		if(root==null)
 			return;
