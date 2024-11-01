@@ -1,3 +1,7 @@
+package kunal;
+
+import java.util.List;
+
 public class MinimumTimeDifference{
 	public int findMinDifference(List<String> timePoints) {
         boolean[] mark = new boolean[24 * 60];
