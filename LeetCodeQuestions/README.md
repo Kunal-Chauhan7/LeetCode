@@ -44,7 +44,7 @@
 <br>
 ✅Roman to Integer
 <br>
-✅Remove Nth Node From End of List
+✅Remove Nth TreeNode From End of List
 <br>
 ✅Divide Array in Sets of K Consecutive Numbers
 <br>
